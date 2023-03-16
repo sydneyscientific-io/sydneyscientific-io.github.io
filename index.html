@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <script src="https://cdn.jsdelivr.net/npm/d3@6"></script>
+    <script src="https://cdn.jsdelivr.net/npm/markmap-view"></script>
+    <script src="https://cdn.jsdelivr.net/npm/markmap-lib"></script>
+
+    <svg id="markmap" style="width: 800px; height: 800px"></svg>
+
+<script>
+    const { markmap } = window;
+    const { Markmap, Transformer, loadCSS, loadJS } = markmap;
+
+    const transformer = new Transformer();
+
+    // 1. transform Markdown
+    const { root, features } = transformer.transform(`---
+markmap:
+  colorFreezeLevel: 2
+---
+
+# 180 companies in 1 year
+
+## Commonalities
+
+- Multicloud
+- AI/ML
+  - LLM
+  - Classification
+- Auth
+- Mobile
+- Desktop
+- Web
+
+## Licensing
+
+- Open-source (run yourself)
+- SaaS (we host ^open-source)
+
+## Prospective companies
+
+- Idea0
+- Idea1
+`);
+
+    // 2. get assets
+    // either get assets required by used features
+    const { styles, scripts } = transformer.getUsedAssets(features);
+
+
+    // 1. load assets
+    if (styles) loadCSS(styles);
+    if (scripts) loadJS(scripts, { getMarkmap: () => markmap });
+
+    // 2. create markmap
+    // `options` is optional, i.e. `undefined` can be passed here
+    Markmap.create('#markmap', undefined, root); // -> returns a Markmap instance
+    const svgEl = document.querySelector('#markmap');
+    Markmap.create(svgEl, undefined, undefined); // -> returns a Markmap instance
+    </script>
+  </body>
+</html>
