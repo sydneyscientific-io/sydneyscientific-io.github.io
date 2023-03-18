@@ -35,5 +35,5 @@ markmap:
 
 ## Prospective companies
 
-- ${x} = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-- ${y} = \int_{-\infty}^\infty$
+- Idea0
+- Idea1
