@@ -36,4 +36,4 @@ markmap:
 ## Prospective companies
 
 - Idea0
-- Idea1
+- Product comparison
