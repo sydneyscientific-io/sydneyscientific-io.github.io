@@ -35,5 +35,5 @@ markmap:
 
 ## Prospective companies
 
-- Idea0
 - Product comparison
+- Static site generator service à la wordpress.com
