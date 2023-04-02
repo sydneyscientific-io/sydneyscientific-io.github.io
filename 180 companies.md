@@ -36,4 +36,5 @@ markmap:
 ## Prospective companies
 
 - Product comparison
-- Static site generator service à la wordpress.com
+- Comments-as-Service à la disqus.com
+- Static site generator as a Service with 3rd-party APIs
