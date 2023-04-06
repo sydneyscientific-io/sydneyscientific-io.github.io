@@ -39,3 +39,4 @@ markmap:
 - Comments-as-Service à la disqus.com
 - Static site generator as a Service with 3rd-party APIs
 - as-a-Service as-a-Service: whitelabeling
+- website reader-as-a-Serivce: à la wikiwand.com
