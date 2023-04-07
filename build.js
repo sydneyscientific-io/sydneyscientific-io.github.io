@@ -14,7 +14,7 @@ if (require.main === module) {
         readFile(html_filename, 'utf8', (er, html) => {
             if (er != null) throw er;
             /* could us jsdom instead */
-            const fst = html.indexOf(script_start) +script_start.length;
+            const fst = html.indexOf(script_start) + script_start.length;
             const snd = html.indexOf(script_end, fst);
             writeFile(html_filename,
                       `${html.substring(0, fst)}\n${markdown}${html.substring(snd)}`,
