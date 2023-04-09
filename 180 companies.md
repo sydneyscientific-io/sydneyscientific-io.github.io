@@ -16,6 +16,8 @@ markmap:
 - AI/ML (optional)
   - LLM
   - Classification
+  - Text-to-speech (synthesis)
+  - Speech-to-text
 - Auth
 - Billing (for SaaS)
 - Internationalisation
@@ -38,8 +40,10 @@ markmap:
 - as-a-Service as-a-Service: whitelabeling
 - Consumer focussed
   - Product comparison
+  - VPN as-a-Service
 - Content creation focussed
   - Comments-as-Service: à la disqus.com
+  - Voting as-a-Service: à la uservoice.com
   - Static site generator as a Service with 3rd-party APIs
   - website reader-as-a-Service: à la wikiwand.com
 - Ops engineer focussed
