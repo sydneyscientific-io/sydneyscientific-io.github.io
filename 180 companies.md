@@ -40,7 +40,7 @@ markmap:
 - as-a-Service as-a-Service: whitelabeling
 - Consumer focussed
   - Product comparison
-  - VPN as-a-Service
+  - VPN as-a-Service: via softether xor shadowsocks
   - eLearning-as-a-Service: Open edX
 - Content creation focussed
   - Comments-as-Service: à la disqus.com
