@@ -42,13 +42,14 @@ markmap:
   - Product comparison
   - VPN as-a-Service: via softether xor shadowsocks
   - eLearning-as-a-Service: Open edX
+  - Video-platform as-an-app: TV, desktop for ~~YouTube~~ [list](https://en.wikipedia.org/wiki/List_of_online_video_platforms)
 - Content creation focussed
   - Comments-as-Service: à la disqus.com
   - Voting as-a-Service: à la uservoice.com
   - Static site generator as a Service with 3rd-party APIs
   - website reader-as-a-Service: à la wikiwand.com
 - Ops engineer focussed
-  - dashboard as-a-Service: ∀ ↕
+  - dashboard as-a-Service: ∀ ↓
   - security as-a-Service: ∀ ↕
   - logs as-a-Service: ∀ ↕
   - patch management as-a-Service: ∀ ↕
