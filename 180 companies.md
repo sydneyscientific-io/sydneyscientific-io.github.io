@@ -43,6 +43,7 @@ markmap:
   - VPN as-a-Service: via softether xor shadowsocks
   - eLearning-as-a-Service: Open edX
   - Video-platform as-an-app: TV, desktop for ~~YouTube~~ [list](https://en.wikipedia.org/wiki/List_of_online_video_platforms)
+  - Game-console as-a-Service: libreretro based?
 - Content creation focussed
   - Comments-as-Service: à la disqus.com
   - Voting as-a-Service: à la uservoice.com
