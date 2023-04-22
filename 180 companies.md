@@ -54,6 +54,8 @@ markmap:
   - Inventory as-a-Service
   - eCommerce as-a-Service
   - Accounting as-a-Service
+- B2B2C
+  - Loyalty programmes as-a-Service
 - Ops engineer focussed
   - dashboard as-a-Service: ∀ ↓
   - security as-a-Service: ∀ ↕
