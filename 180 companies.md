@@ -56,6 +56,7 @@ markmap:
   - Accounting as-a-Service
 - B2B2C
   - Loyalty programmes as-a-Service
+  - Event ticketing as-a-Service
 - Ops engineer focussed
   - dashboard as-a-Service: ∀ ↓
   - security as-a-Service: ∀ ↕
