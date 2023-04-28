@@ -54,6 +54,7 @@ markmap:
   - Inventory as-a-Service
   - eCommerce as-a-Service
   - Accounting as-a-Service
+  - Fleet-tracking as-a-Service
 - B2B2C
   - Loyalty programmes as-a-Service
   - Event ticketing as-a-Service
