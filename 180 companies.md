@@ -51,6 +51,7 @@ markmap:
   - website reader-as-a-Service: à la wikiwand.com
 - Enterprise Resource Planning (ERP)
   - Content Management System as-a-Service
+  - Customer Relationship Management as-a-Service
   - Inventory as-a-Service
   - eCommerce as-a-Service
   - Accounting as-a-Service
