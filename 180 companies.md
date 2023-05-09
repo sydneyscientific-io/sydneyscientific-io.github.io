@@ -63,6 +63,7 @@ markmap:
   - Project management as-a-Service
   - Subscription management as-a-Service
   - Manage ones own recurring subscriptions as-a-Service
+  - Consensus decision making as-a-Service
 - Data management focussed
   - Conversion/transcoding
     - [FFmpeg](https://ffmpeg.org) as-a-Service
