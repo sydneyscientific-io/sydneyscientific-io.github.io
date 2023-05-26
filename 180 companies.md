@@ -75,6 +75,8 @@ markmap:
   - patch management as-a-Service: ∀ ↕
   - Authentication as-a-Service
   - Authorisation as-a-Service
+- Developer focussed
+  - API mock server hosting and doc development as-a-Service à la WireMock & swagger.io
 - ML engineering focussed
   - Labelling system to create new datasets
 <!--
