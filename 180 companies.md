@@ -65,6 +65,7 @@ markmap:
   - Manage ones own recurring subscriptions as-a-Service
   - Consensus decision making as-a-Service
   - Multi-site progress tracking & gamification as-a-Service (e.g., Coursera + EdX + KhanAcademy + YouTube playlist)
+  - Leaderboard/ranking as-a-Service
 - Data management focussed
   - Conversion/transcoding
     - [FFmpeg](https://ffmpeg.org) as-a-Service
