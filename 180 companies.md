@@ -82,6 +82,7 @@ markmap:
   - API mock server hosting and doc development as-a-Service à la WireMock & swagger.io
 - ML engineering focussed
   - Labelling system to create new datasets
+  - Explore latest papers added to multi-ML
 <!--
 - ML engineering focussed
   - ML dashboard
