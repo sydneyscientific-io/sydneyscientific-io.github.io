@@ -80,6 +80,8 @@ markmap:
   - Conversion/transcoding
     - [FFmpeg](https://ffmpeg.org) as-a-Service
     - [$\LaTeX$](https://latex-project.org) as-a-Service: à la overleaf.com
+  - Library
+    - Hosted file-system (e.g., buckets or OneDrive) + full-text search as-a-Service
 - Ops engineer focussed
   - dashboard as-a-Service: ∀ ↓
   - security as-a-Service: ∀ ↕
