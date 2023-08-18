@@ -54,6 +54,7 @@ markmap:
   - Voting as-a-Service: à la uservoice.com
   - Static site generator as a Service with 3rd-party APIs
   - website reader-as-a-Service: à la wikiwand.com
+  - Presentation adjacent to stream or recording as-a-Service
 - Enterprise Resource Planning (ERP)
   - Content Management System as-a-Service
   - Customer Relationship Management as-a-Service
