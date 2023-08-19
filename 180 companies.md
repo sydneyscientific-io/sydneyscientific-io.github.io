@@ -75,8 +75,11 @@ markmap:
   - Wishlist as-a-Service (link with collaborative e-commerce)
   - Review as-a-Service
   - DocuSign competitor as-a-Service
+  - Survey creation and running as-a-Service
 - P2P
-  - Watch parties, calendar synchronisation, voting as-a-Service
+  - Watch parties as-a-Service
+  - Calendar synchronisation as-a-Service
+  - Voting as-a-Service
 - Data management focussed
   - Conversion/transcoding
     - [FFmpeg](https://ffmpeg.org) as-a-Service
@@ -96,6 +99,7 @@ markmap:
 - Developer focussed
   - API mock server hosting and doc development as-a-Service à la WireMock & swagger.io
   - Drag-drop form builder
+  - Drag-drop multi-form builder
   - No/low code system built atop form builder
 - ML engineering focussed
   - Labelling system to create new datasets
