@@ -58,6 +58,8 @@ markmap:
 - Enterprise Resource Planning (ERP)
   - Content Management System as-a-Service
   - Customer Relationship Management as-a-Service
+  - Issue tracking as-a-Service
+  - Project management as-a-Service
   - Inventory as-a-Service (incl. multi-company)
   - Inventory renting and reselling as-a-Service
   - eCommerce as-a-Service
@@ -66,8 +68,6 @@ markmap:
 - B2B2C
   - Loyalty programmes as-a-Service
   - Event ticketing as-a-Service
-  - Issue tracking as-a-Service
-  - Project management as-a-Service
   - Subscription management as-a-Service
   - Manage ones own recurring subscriptions as-a-Service
   - Consensus decision making as-a-Service
@@ -97,6 +97,9 @@ markmap:
   - Authorisation as-a-Service
   - User management as-a-Service
   - Price optimisation as-a-Service for data: à la xonai.io
+  - Database-as-a-Service
+    - PostgreSQL
+    - Redis [compatible but with permissive license (e.g.: KeyDB)]
 - Developer focussed
   - API mock server hosting and doc development as-a-Service à la WireMock & swagger.io
   - Drag-drop form builder
