@@ -109,6 +109,7 @@ markmap:
  - Popular application as a Service (using PaaS↑)
     - WordPress as-a-Service (CMS)
     - Open edX (eLearning MOOC system)
+    - Odoo
 - Developer focussed
   - API mock server hosting and doc development as-a-Service à la WireMock & swagger.io
   - Drag-drop form builder
