@@ -81,6 +81,7 @@ markmap:
   - Watch parties as-a-Service
   - Calendar synchronisation as-a-Service
   - Voting as-a-Service
+  - Barter with receipt proof as-a-Service
 - Data management focussed
   - Conversion/transcoding
     - [FFmpeg](https://ffmpeg.org) as-a-Service
