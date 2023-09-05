@@ -2,7 +2,7 @@
 markmap:
   colorFreezeLevel: 2
   extraJs:
-    - https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/contrib/mhchem.min.js
+    - https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/contrib/mhchem.min.js
 ---
 
 # 180 companies in 1 year
