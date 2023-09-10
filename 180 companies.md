@@ -56,8 +56,9 @@ markmap:
   - website reader-as-a-Service: à la wikiwand.com
   - Presentation adjacent to stream or recording as-a-Service
 - Enterprise Resource Planning (ERP)
-  - Content Management System as-a-Service
-  - Customer Relationship Management as-a-Service
+  - Content Management System (CMS) as-a-Service
+  - Customer Relationship Management (CRM) as-a-Service
+    - Lead sharing as-a-Service
   - Issue tracking as-a-Service
   - Project management as-a-Service
   - Inventory as-a-Service (incl. multi-company)
