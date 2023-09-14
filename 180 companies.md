@@ -55,6 +55,7 @@ markmap:
   - Static site generator as a Service with 3rd-party APIs
   - website reader-as-a-Service: à la wikiwand.com
   - Presentation adjacent to stream or recording as-a-Service
+  - Interactive graph on a single website generator (à la here)
 - Enterprise Resource Planning (ERP)
   - Content Management System (CMS) as-a-Service
   - Customer Relationship Management (CRM) as-a-Service
