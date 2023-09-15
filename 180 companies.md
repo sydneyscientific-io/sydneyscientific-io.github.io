@@ -67,6 +67,8 @@ markmap:
   - eCommerce as-a-Service
   - Accounting as-a-Service
   - Fleet-tracking as-a-Service
+  - Business support system
+    - Product management as-a-Service (use this as case-study ?)
 - B2B2C
   - Loyalty programmes as-a-Service
   - Event ticketing as-a-Service
