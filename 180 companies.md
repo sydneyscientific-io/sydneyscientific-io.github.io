@@ -81,6 +81,7 @@ markmap:
   - Review as-a-Service
   - DocuSign competitor as-a-Service
   - Survey creation and running as-a-Service
+  - Single sign-on (SSO) as-a-Service
 - P2P
   - Watch parties as-a-Service
   - Calendar synchronisation as-a-Service
