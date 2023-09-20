@@ -62,13 +62,14 @@ markmap:
     - Lead sharing as-a-Service
   - Issue tracking as-a-Service
   - Project management as-a-Service
+    - Report sharing as-a-Service (e.g., via email)
   - Inventory as-a-Service (incl. multi-company)
   - Inventory renting and reselling as-a-Service
   - eCommerce as-a-Service
   - Accounting as-a-Service
   - Fleet-tracking as-a-Service
   - Business support system
-    - Product management as-a-Service (use this as case-study ?)
+    - Product management as-a-Service (use this as case-study ↕)
 - B2B2C
   - Loyalty programmes as-a-Service
   - Event ticketing as-a-Service
