@@ -94,6 +94,7 @@ markmap:
     - [$\LaTeX$](https://latex-project.org) as-a-Service: à la overleaf.com
   - Library
     - Hosted file-system (e.g., buckets or OneDrive) + full-text search as-a-Service
+  - Similar to $\LaTeX$-as-a-Service, engineering blueprints (e.g., PCB or OpenSCAD) as-a-Service
 - Ops engineer focussed
   - dashboard as-a-Service: ∀ ↓
   - security as-a-Service: ∀ ↕
