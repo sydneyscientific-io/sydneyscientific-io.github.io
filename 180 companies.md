@@ -118,6 +118,8 @@ markmap:
     - WordPress as-a-Service (CMS)
     - Open edX (eLearning MOOC system)
     - Odoo
+    - Taiga (project management)
+    - [cpanel](https://cpanel.net) open-source clone (e.g., [Webmin](https://en.wikipedia.org/wiki/Webmin))
 - Developer focussed
   - API mock server hosting and doc development as-a-Service à la WireMock & swagger.io
   - Drag-drop form builder
