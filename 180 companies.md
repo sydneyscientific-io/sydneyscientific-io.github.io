@@ -120,6 +120,7 @@ markmap:
     - Odoo
     - Taiga (project management)
     - [cpanel](https://cpanel.net) open-source clone (e.g., [Webmin](https://en.wikipedia.org/wiki/Webmin))
+    - MediaWiki (same that Wikipedia uses)
 - Developer focussed
   - API mock server hosting and doc development as-a-Service à la WireMock & swagger.io
   - Drag-drop form builder
