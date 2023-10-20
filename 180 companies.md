@@ -128,6 +128,7 @@ markmap:
   - No/low code system built atop form builder
   - Inventory of deployments across cloud vendors
   - Inventory of planned deployment
+  - Price optimisation path for plan
   - Mix-and-match planned deployment components (e.g., nginx for httpd, PostgreSQL for MariaDB)
 - ML engineering focussed
   - Labelling system to create new datasets
