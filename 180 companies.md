@@ -12,9 +12,10 @@ markmap:
 - Deployment
   - Multicloud
   - CI/CD and DevOps
+    - Package-managers
 - Deployment monitoring
   - Logging
-  - Tracing (OpenTelemetry)
+  - Tracing (e.g., OpenTelemetry)
   - Alerting
 - Developer portal with API docs
 - AI/ML (optional)
@@ -49,6 +50,7 @@ markmap:
   - Video-platform as-an-app: TV, desktop for ~~YouTube~~ [list](https://en.wikipedia.org/wiki/List_of_online_video_platforms)
   - Game-console as-a-Service: libreretro based?
   - API-level clone of major social network, e.g., Twitter
+  - archive.org style crawling snapshotter
 - Content creation focussed
   - Comments-as-Service: à la disqus.com
   - Voting as-a-Service: à la uservoice.com
@@ -114,6 +116,11 @@ markmap:
       - WASM
       - Python
       - JavaScript, TypeScript (e.g., with bun or Node.js)
+ - Testing as a Service
+    - Websites
+    - iOS apps
+    - Android apps
+    - HTTPS RESTful backends
  - Popular application as a Service (using PaaS↑)
     - WordPress as-a-Service (CMS)
     - Open edX (eLearning MOOC system)
