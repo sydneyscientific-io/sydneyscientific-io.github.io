@@ -103,6 +103,7 @@ markmap:
   - logs as-a-Service: ∀ ↕
   - patch management as-a-Service: ∀ ↕
   - backup management as-a-Service: ∀ ↕
+  - release management as-a-Service: ∀ ↕
   - Authentication as-a-Service
   - Authorisation as-a-Service
   - User management as-a-Service
@@ -117,7 +118,7 @@ markmap:
       - Python
       - JavaScript, TypeScript (e.g., with bun or Node.js)
  - Testing as a Service
-    - Websites
+    - Websites (incl. JavaScript support)
     - iOS apps
     - Android apps
     - HTTPS RESTful backends
