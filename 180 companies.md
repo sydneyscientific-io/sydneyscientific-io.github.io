@@ -149,6 +149,7 @@ markmap:
     - RTP
     - SIP
     - &etc.
+  - Email
 - ML engineering focussed
   - Labelling system to create new datasets
   - Explore latest papers added to multi-ML
