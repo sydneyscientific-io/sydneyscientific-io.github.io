@@ -51,7 +51,9 @@ markmap:
   - Game-console as-a-Service (peer-to-peer): libreretro based?
     - [ChimeraOS](https://chimeraos.org)
     - [EmulatorJS](https://github.com/EmulatorJS/EmulatorJS)
-  - API-level clone of major social network, e.g., Twitter/X
+  - API-level clone of major social network, e.g.,
+    - Twitter/X
+    - Meetup.com
   - archive.org style crawling snapshotter
 - Content creation focussed
   - Comments-as-Service: à la disqus.com
@@ -77,6 +79,7 @@ markmap:
 - B2B2C
   - Loyalty programmes as-a-Service
   - Event ticketing as-a-Service
+  - Event social-network: à la meetup.com
   - Subscription management as-a-Service
   - Manage ones own recurring subscriptions as-a-Service
   - Consensus decision making as-a-Service
