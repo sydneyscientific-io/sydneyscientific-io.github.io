@@ -169,6 +169,7 @@ markmap:
 - Social/business network
   - Hinder: swipe-left remove or swipe-right message your Facebook|LinkedIn 'friends'
   - Private LinkedIn for alumni and current MBA networks per school (and another, e.g., for just Ivy League)
+  - Industry group social network, for sharing: research articles; events; résumés; and jobs
 <!--
 - ML engineering focussed
   - ML dashboard
