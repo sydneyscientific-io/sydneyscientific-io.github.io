@@ -59,7 +59,7 @@ markmap:
   - Comments-as-Service: à la disqus.com
   - Voting as-a-Service: à la uservoice.com
   - Static site generator as a Service with 3rd-party APIs
-  - website reader-as-a-Service: à la wikiwand.com
+  - Website reader-as-a-Service: à la wikiwand.com
   - Presentation adjacent to stream or recording as-a-Service
   - Interactive graph on a single website generator (à la here)
 - Enterprise Resource Planning (ERP)
@@ -157,6 +157,8 @@ markmap:
     - SIP
     - &etc.
   - Email
+  - Any of the >2,000 listed here [https://apis.guru](https://apis.guru)
+  - Combinations of ^
 - ML engineering focussed
   - Labelling system to create new datasets
   - Explore latest papers added to multi-ML
