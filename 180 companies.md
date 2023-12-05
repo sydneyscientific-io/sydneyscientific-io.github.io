@@ -35,6 +35,7 @@ markmap:
   - Windows
   - Linux
   - macOS
+  - Others (*BSD, SunOS, DOS?)
 - Web
 
 ## Licensing
@@ -122,11 +123,24 @@ markmap:
     - Redis [compatible but with permissive license (e.g.: KeyDB)]
     - ScyllaDB (compatible with Apache Cassandra)
     - MySQL and its forks/compatible implementations ([MariaDB](https://mariadb.org/), [TiDB](https://github.com/pingcap/tidb), [Vitess](https://github.com/vitessio/vitess))
- - [PaaS] Deployment as-a-Service (integrated with DBaaS↑)
+  - [PaaS] Deployment as-a-Service (integrated with DBaaS↑)
     - Language runtime
       - WASM
       - Python
       - JavaScript, TypeScript (e.g., with deno, bun, or Node.js)
+  - Inventory of deployments across cloud vendors
+  - Inventory of planned deployment
+  - Price optimisation path for plan
+  - Mix-and-match planned deployment components (e.g., nginx for httpd, PostgreSQL for MariaDB)
+  - Cross-platform package-manager oriented pipeline to produce containers, competing or building atop:
+    - [Linux] [LXC](https://linuxcontainers.org)
+       - [Chiselled Ubuntu](https://ubuntu.com/containers/chiselled/dotnet) (official Canonical)
+    - [Linux] [Docker](https://www.docker.com)
+    - [Linux] [Kubernetes](https://kubernetes.io) and cloud-vendor hosted variants
+    - [Windows] [Sanboxie](https://en.wikipedia.org/wiki/Sandboxie)
+    - [FreeBSD & derivatives] [jails](https://en.wikipedia.org/wiki/FreeBSD_jail)
+    - [SunOS] [Zones](https://en.wikipedia.org/wiki/Solaris_Containers)
+    - [Others](https://en.wikipedia.org/wiki/Comparison_of_platform_virtualization_software)
  - Testing as a Service
     - Websites (incl. JavaScript support)
     - iOS apps
@@ -148,10 +162,6 @@ markmap:
   - Drag-drop multi-form builder
   - No/low code system built atop form builder
   - Auto-admin interface inferred from backend
-  - Inventory of deployments across cloud vendors
-  - Inventory of planned deployment
-  - Price optimisation path for plan
-  - Mix-and-match planned deployment components (e.g., nginx for httpd, PostgreSQL for MariaDB)
 - Alternative frontends, generated from OpenAPI spec
   - Major social networks (that allow this; i.e., not Twitter/X)
   - IRC
