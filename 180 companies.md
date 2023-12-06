@@ -162,6 +162,8 @@ markmap:
   - Drag-drop multi-form builder
   - No/low code system built atop form builder
   - Auto-admin interface inferred from backend
+  - Documentation (versioned) site for SDKs
+  - Take C SDK and produce SDKs for other languages
 - Alternative frontends, generated from OpenAPI spec
   - Major social networks (that allow this; i.e., not Twitter/X)
   - IRC
