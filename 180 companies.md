@@ -151,6 +151,7 @@ markmap:
     - HTTPS RESTful backends
     - Emulators via WASM
     - Email clients
+    - Screenshots
  - Popular application as a Service (using PaaS↑)
     - WordPress as-a-Service (CMS)
     - Open edX (eLearning MOOC system)
