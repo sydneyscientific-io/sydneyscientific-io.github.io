@@ -192,6 +192,7 @@ markmap:
     - choose model(s) / optimiser / loss or other new component and run against specific datasets
   - Cost + accuracy comparison (e.g., to tradeoff accuracy for a lower cost)
   - CAD derivation (parametric model to new design by new combination of paramaters; leading to IP-free blueprints?)
+  - Package manager for ML models, optimizers, loss functions, &etc.
 - Social/business network
   - Hinder: swipe-left remove or swipe-right message your Facebook|LinkedIn 'friends'
   - Private LinkedIn for alumni and current MBA networks per school (and another, e.g., for just Ivy League)
