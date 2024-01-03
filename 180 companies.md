@@ -144,6 +144,7 @@ markmap:
     - [FreeBSD & derivatives] [jails](https://en.wikipedia.org/wiki/FreeBSD_jail)
     - [SunOS] [Zones](https://en.wikipedia.org/wiki/Solaris_Containers)
     - [Others](https://en.wikipedia.org/wiki/Comparison_of_platform_virtualization_software)
+    - Benchmarking size and build-time of resultant 'images'
  - Testing as a Service
     - Websites (incl. JavaScript support)
     - iOS apps
@@ -167,7 +168,7 @@ markmap:
   - No/low code system built atop form builder
   - Auto-admin interface inferred from backend
   - Documentation (versioned) site for SDKs
-  - Take C SDK and produce SDKs for other languages
+  - Take C SDK and produce SDKs—usually via FFI—for other languages
   - CNCF package manager
   - Apache package manager
   - Package manager for each CNCF, Apache, and other package of interest
