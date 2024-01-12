@@ -18,11 +18,11 @@ markmap:
   - [αcτµαlly pδrταblε εxεcµταblε](https://justine.lol/ape.html)
 - Deployment monitoring
   - Logging
-  - Tracing (e.g., OpenTelemetry)
+  - Tracing (e.g., [OpenTelemetry](https://en.wikipedia.org/wiki/Cloud_Native_Computing_Foundation#OpenTelemetry))
   - Alerting
 - Developer portal with API docs
 - AI/ML (optional)
-  - LLM
+  - [LLM](https://en.wikipedia.org/wiki/Large_language_model)
   - Classification
   - Text-to-speech (synthesis)
   - Speech-to-text
@@ -50,15 +50,15 @@ markmap:
 - as-a-Service as-a-Service: whitelabeling
 - Consumer focussed
   - Product comparison
-  - VPN as-a-Service: via softether xor shadowsocks
-  - eLearning-as-a-Service: Open edX
+  - VPN as-a-Service: via [softether](https://www.softether.org) xor [shadowsocks](https://shadowsocks.org)
+  - eLearning-as-a-Service: [Open edX](https://openedx.org)
   - Video-platform as-an-app: TV, desktop for ~~YouTube~~ [list](https://en.wikipedia.org/wiki/List_of_online_video_platforms)
   - Game-console as-a-Service (peer-to-peer): libreretro based?
     - [ChimeraOS](https://chimeraos.org)
     - [EmulatorJS](https://github.com/EmulatorJS/EmulatorJS)
   - API-level clone of major social network, e.g.,
     - Twitter/X
-    - Meetup.com
+    - &etc.
   - archive.org style crawling snapshotter
 - Content creation focussed
   - Comments-as-Service: à la disqus.com
@@ -107,6 +107,7 @@ markmap:
   - Voting as-a-Service
   - Barter with receipt proof as-a-Service
   - Remote-control for PC, e.g., with different joysticks to pick between
+  - Open-source web conferencing software ([comparison table](https://en.wikipedia.org/wiki/Comparison_of_web_conferencing_software))
 - Data management focussed
   - Conversion/transcoding
     - [FFmpeg](https://ffmpeg.org) as-a-Service
@@ -184,13 +185,13 @@ markmap:
   - IRC
   - [matrix]
   - VOIP protocols like:
-    - XMPP
-    - RTP
-    - SIP
+    - [XMPP](https://xmpp.org)
+    - [RTP](https://en.wikipedia.org/wiki/Real-time_Transport_Protocol)
+    - [SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol)
     - &etc.
   - Email
-  - Combinations of ^
   - Any of the >2,000 listed here [https://apis.guru](https://apis.guru)
+  - Combinations of ^
 - ML engineering focussed
   - Labelling system to create new datasets
   - Explore latest papers added to multi-ML
