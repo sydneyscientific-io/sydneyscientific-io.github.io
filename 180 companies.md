@@ -131,6 +131,7 @@ markmap:
   - Database-as-a-Service
     - PostgreSQL
       - Extensions marketplace (open-source only)
+      - Extension package manager as a PostgreSQL extension
     - Redis [compatible but with permissive license (e.g.: KeyDB)]
     - ScyllaDB (compatible with Apache Cassandra)
     - MySQL and its forks/compatible implementations ([MariaDB](https://mariadb.org/), [TiDB](https://github.com/pingcap/tidb), [Vitess](https://github.com/vitessio/vitess))
