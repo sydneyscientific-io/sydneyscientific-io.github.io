@@ -16,6 +16,10 @@ markmap:
   - Package-managers
     - OS-specific and archive packages
   - [αcτµαlly pδrταblε εxεcµταblε](https://justine.lol/ape.html)
+  - Images
+    - Vendor specific virtual machines
+    - Unikernels
+    - Container images (Docker, Kata, and similar)
 - Deployment monitoring
   - Logging
   - Tracing (e.g., [OpenTelemetry](https://en.wikipedia.org/wiki/Cloud_Native_Computing_Foundation#OpenTelemetry))
