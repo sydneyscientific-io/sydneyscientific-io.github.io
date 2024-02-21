@@ -168,6 +168,10 @@ markmap:
     - iOS apps
     - Android apps
     - HTTPS RESTful backends
+    - Other popular protocols like:
+      - JSON RPC
+      - gRPC
+      - Apache Thrift
     - Emulators via WASM
     - Email clients
     - Screenshots
@@ -194,6 +198,7 @@ markmap:
   - CNCF package manager
   - Apache package manager
   - Package manager for other org of interest
+  - Image size benchmarking as-a-Service, to find best base image that compiles (& tests)
 - Alternative frontends, generated from OpenAPI spec
   - Major social networks (that allow this; i.e., not Twitter/X)
   - IRC
