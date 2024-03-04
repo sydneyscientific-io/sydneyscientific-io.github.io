@@ -159,6 +159,7 @@ markmap:
       - WASM
       - Python
       - JavaScript, TypeScript (e.g., with [deno](https://deno.com), [bun](https://bun.sh), or [Node.js](https://nodejs.org))
+    - Resource constrained αpε using kernel features (e.g., jails, cgroups, namespaces, sandboxes)
   - Inventory of deployments across cloud vendors
   - Inventory of planned deployment
   - Price optimisation path for plan
