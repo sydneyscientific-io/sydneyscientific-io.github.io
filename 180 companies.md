@@ -198,7 +198,7 @@ markmap:
   - Auto-admin interface inferred from backend
   - Documentation (versioned) site for SDKs
     - PDF export
-    - HTML export
+    - HTML export/render
     - RFC format style export
     - Markdown export
   - Take C SDK and produce SDKs—usually via FFI—for other languages
@@ -227,6 +227,11 @@ markmap:
   - Combinations of ^
 - ML engineering focussed
   - Labelling system to create new datasets
+    - Text
+    - Image
+    - Audio
+    - Video
+    - Multidomain
   - Explore latest papers added to multi-ML
   - Leaderboard for different datasets
   - Execution interface:
