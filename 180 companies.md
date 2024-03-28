@@ -232,6 +232,8 @@ markmap:
     - Audio
     - Video
     - Multidomain
+  - Labelling system AI/ML aid, e.g.:
+    - Apply segmentation (labels) that can be modified by labeller
   - Explore latest papers added to multi-ML
   - Leaderboard for different datasets
   - Execution interface:
@@ -251,7 +253,7 @@ markmap:
     - tour of specific talent, e.g., musician or public speaker
   - Chat app—with channels—for:
     - note taking / dictaphone
-    - Peer-to-peer (everyone is moderators)
+    - Peer-to-peer (everyone can moderate)
     - Multi-master consensus (masters are moderators)
 <!--
 - ML engineering focussed
