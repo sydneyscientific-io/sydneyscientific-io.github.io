@@ -25,6 +25,7 @@ markmap:
   - Tracing (e.g., [OpenTelemetry](https://en.wikipedia.org/wiki/Cloud_Native_Computing_Foundation#OpenTelemetry))
   - Alerting
 - Developer portal with API docs
+- API gateway
 - AI/ML (optional)
   - [LLM](https://en.wikipedia.org/wiki/Large_language_model)
   - Classification
