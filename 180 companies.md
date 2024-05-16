@@ -256,6 +256,19 @@ markmap:
     - note taking / dictaphone
     - Peer-to-peer (everyone can moderate)
     - Multi-master consensus (masters are moderators)
+  - Modular components for building social networks, including:
+    - Chat
+     - 1:1
+     - Group
+    - Groups
+    - Events (personal; group)
+    - Posts
+     - Image
+     - Video
+     - Text
+     - Livestream (screenshare, audio, image)
+    - Following/friending
+    - Timeline (of posts)
 <!--
 - ML engineering focussed
   - ML dashboard
