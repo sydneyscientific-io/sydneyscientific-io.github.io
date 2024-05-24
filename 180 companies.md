@@ -272,6 +272,7 @@ markmap:
      - Video
      - Text
      - Livestream (screenshare, audio, image)
+     - Arbitrary files
     - Following/friending
     - Timeline (of posts)
 <!--
