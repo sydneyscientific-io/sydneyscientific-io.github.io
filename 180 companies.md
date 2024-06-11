@@ -63,6 +63,7 @@ markmap:
     - [EmulatorJS](https://github.com/EmulatorJS/EmulatorJS)
   - API-level clone of major social network, e.g.,
     - Twitter/X
+    - LinkedIn
     - &etc.
   - archive.org style crawling snapshotter
 - Content creation focussed
@@ -266,7 +267,9 @@ markmap:
      - 1:1
      - Group
     - Groups
-    - Events (personal; group)
+    - Events
+     - Personal
+     - Group
     - Posts
      - Image
      - Video
@@ -274,7 +277,10 @@ markmap:
      - Livestream (screenshare, audio, image)
      - Arbitrary files
     - Following/friending
-    - Timeline (of posts)
+    - Timeline (of posts and events)
+    - Location sharing
+     - 1:1
+     - Group
 <!--
 - ML engineering focussed
   - ML dashboard
