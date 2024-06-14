@@ -150,6 +150,8 @@ markmap:
       - [Airbyte](https://airbyte.com)
       - [Apache Flink](https://flink.apache.org)
       - [Apache Nifi](https://nifi.apache.org)
+      - [Apache Iceberg](https://iceberg.apache.org)
+      - [Apache Parquet](https://parquet.apache.org)
       - Other [reverse-etl](https://github.com/topics/reverse-etl) tooling
   - [PaaS] Deployment as-a-Service (integrated with DBaaS↑)
     - Language runtime
@@ -179,7 +181,7 @@ markmap:
     - Other popular protocols like:
       - JSON RPC
       - gRPC
-      - Apache Thrift
+      - [Apache Thrift](https://thrift.apache.org)
     - Emulators via WASM
     - Email clients
     - Screenshots
