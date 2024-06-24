@@ -123,6 +123,13 @@ markmap:
   - Similar to $\LaTeX$-as-a-Service, engineering blueprints (e.g., PCB or OpenSCAD) as-a-Service
   - Scraping
     - List of websites with events to tabulated schemas, e.g., conference {name, location, date, deadline}
+  - Document (wiki, blog, SPA, PDF, &etc.), from:
+    - Markdown
+    - HTML+CSS
+    - $\LaTeX$
+    - Images
+    - pptx
+    - ODP
 - Ops engineer focussed
   - dashboard as-a-Service: ∀ ↓
   - security as-a-Service: ∀ ↕
