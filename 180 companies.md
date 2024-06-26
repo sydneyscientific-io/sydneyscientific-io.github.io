@@ -130,6 +130,10 @@ markmap:
     - Images
     - pptx
     - ODP
+    - Table of Contents (ToC)
+    - Sitemap
+    - Visualisation
+    - LLM prompt pipeline (e.g., "summarise")
 - Ops engineer focussed
   - dashboard as-a-Service: ∀ ↓
   - security as-a-Service: ∀ ↕
