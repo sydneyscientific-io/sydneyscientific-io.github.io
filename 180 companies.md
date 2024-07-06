@@ -310,6 +310,8 @@ markmap:
     - Location sharing
      - 1:1
      - Group
+    - Full text search
+    - Semantic search (e.g., GraphQL)
 <!--
 - ML engineering focussed
   - ML dashboard
