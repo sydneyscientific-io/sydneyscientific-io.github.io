@@ -14,7 +14,17 @@ markmap:
   - CI/CD and DevOps
 - Distribution
   - Package-managers
-    - OS-specific and archive packages
+    - OS-specific
+      - .deb
+      - .rpm
+      - .apk
+      - .msi
+      - .exe
+      - .pkg
+      - .dmg
+    - archive packages
+      - .tar.*
+      - .zip
   - [αcτµαlly pδrταblε εxεcµταblε](https://justine.lol/ape.html)
   - Images
     - Vendor specific virtual machines
@@ -312,6 +322,9 @@ markmap:
      - Group
     - Full text search
     - Semantic search (e.g., GraphQL)
+    - Suggest a friend/connection
+    - Suggest a group
+    - Suggest a location
 <!--
 - ML engineering focussed
   - ML dashboard
