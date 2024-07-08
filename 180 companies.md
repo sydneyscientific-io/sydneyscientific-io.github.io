@@ -85,11 +85,13 @@ markmap:
   - Interactive graph on a single website generator (à la here)
 - Enterprise Resource Planning (ERP)
   - Content Management System (CMS) as-a-Service
+    - REST API compatibility with popular competitor, e.g., WordPress
   - Customer Relationship Management (CRM) as-a-Service
     - Lead sharing as-a-Service
   - Issue tracking as-a-Service
   - Project management as-a-Service
     - Report sharing as-a-Service (e.g., via email)
+    - REST API compatibility with popular competitor, e.g., JIRA
   - Inventory as-a-Service (incl. multi-company)
   - Inventory renting and reselling as-a-Service
   - eCommerce as-a-Service
@@ -214,6 +216,8 @@ markmap:
     - Email clients
     - Screenshots
     - Mocks as a service, similar to open-source [wiremock](https://wiremock.org)
+    - Test from OpenAPI (uses JSON-schema internally)
+    - Test from workflow syntax (uses OpenAPI internally)
  - Popular application as a Service (using PaaS↑)
     - [WordPress](https://wordpress.org) as-a-Service (CMS)
     - [Open edX](https://openedx.org) (eLearning MOOC system)
