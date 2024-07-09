@@ -329,6 +329,8 @@ markmap:
     - Suggest a friend/connection
     - Suggest a group
     - Suggest a location
+    - View-once restrictions
+    - View within time-period restrictions
 <!--
 - ML engineering focussed
   - ML dashboard
