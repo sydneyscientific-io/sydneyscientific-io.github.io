@@ -277,6 +277,7 @@ markmap:
     - Multidomain
   - Labelling system AI/ML aid, e.g.:
     - Apply segmentation (labels) that can be modified by labeller
+  - Labelling and relabelling (intra-observer agreement scores; maybe crowd-sourcing also)
   - Explore latest papers added to multi-ML
   - Leaderboard for different datasets
   - Execution interface:
