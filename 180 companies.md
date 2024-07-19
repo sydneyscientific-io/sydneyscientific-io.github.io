@@ -193,6 +193,7 @@ markmap:
       - Ruby
       - JVM (Java, Scala, &etc.)
     - Resource constrained αpε using kernel features (e.g., jails, cgroups, namespaces, sandboxes)
+    - [Firebase](https://firebase.google.com) / [supabase](https://supabase.com) / [PocketBase](https://pocketbase.io) features (with API compatibility)
   - Inventory of deployments across cloud vendors
   - Inventory of planned deployment
   - Price optimisation path for plan
@@ -336,6 +337,7 @@ markmap:
     - Suggest a location
     - View-once restrictions
     - View within time-period restrictions
+    - View within location restrictions
 <!--
 - ML engineering focussed
   - ML dashboard
