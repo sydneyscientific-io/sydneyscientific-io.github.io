@@ -119,6 +119,8 @@ markmap:
   - DocuSign competitor as-a-Service
   - Survey creation and running as-a-Service
   - Single sign-on (SSO) as-a-Service
+    - Kerberos
+    - SAML
   - Planning as-a-Service
     - Group events
     - Weddings, funerals, &etc.
@@ -240,6 +242,7 @@ markmap:
   - Documentation (versioned) site for SDKs
     - PDF export
     - HTML export/render
+      - SPA integration
     - RFC format style export
     - Markdown export
   - Take C SDK and produce SDKs—usually via FFI—for other languages
