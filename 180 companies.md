@@ -91,7 +91,7 @@ markmap:
   - Issue tracking as-a-Service
   - Project management as-a-Service
     - Report sharing as-a-Service (e.g., via email)
-    - REST API compatibility with popular competitor, e.g., JIRA
+    - REST API compatibility with popular competitor, e.g., Atlassian JIRA
   - Inventory as-a-Service (incl. multi-company)
   - Inventory renting and reselling as-a-Service
   - eCommerce as-a-Service
@@ -193,7 +193,7 @@ markmap:
       - Python
       - JavaScript, TypeScript (e.g., with [deno](https://deno.com), [bun](https://bun.sh), or [Node.js](https://nodejs.org))
       - Ruby
-      - JVM (Java, Scala, &etc.)
+      - JVM (Java, Scala, Kotlin, &etc.)
     - Resource constrained αpε using kernel features (e.g., jails, cgroups, namespaces, sandboxes)
     - [Firebase](https://firebase.google.com) / [supabase](https://supabase.com) / [PocketBase](https://pocketbase.io) features (with API compatibility)
   - Inventory of deployments across cloud vendors
@@ -219,6 +219,7 @@ markmap:
       - [JSON-RPC](https://www.jsonrpc.org)
       - [gRPC](https://grpc.io)
       - [Apache Thrift](https://thrift.apache.org)
+      - [Apache Avro](https://avro.apache.org)
     - Emulators via WASM
     - Email clients
     - Screenshots
