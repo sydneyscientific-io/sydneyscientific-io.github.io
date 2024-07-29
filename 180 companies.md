@@ -265,6 +265,14 @@ markmap:
     - [PocketBase](https://pocketbase.io):
       - ported to non SQLite (e.g., PostgreSQL)
       - new SDKs authored (e.g., Kotlin)
+  - Queue-as-a-Service
+    - Dependent tasks
+    - Concurrent/parallel tasks
+    - Guarantee configurable betwixt:
+      - at least once delivery
+      - at most once delivery
+    - Share data between tasks
+    - Schedule tasks
 - Alternative frontends, generated from OpenAPI spec
   - Major social networks (that allow this; i.e., not Twitter/X)
   - IRC
